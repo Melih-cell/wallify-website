@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://melih-cell.github.io/wallify-website/sitemap.xml
